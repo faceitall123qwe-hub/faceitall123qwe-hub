@@ -5,7 +5,9 @@ Postgres schema and the API to the infrastructure code and the CI pipeline that 
 
 - ☁️ Working toward **AWS Solutions Architect Associate (SAA-C03)**, **Terraform** and **CKA**
 - 🛠️ I like systems that fail safe: dry-run by default, idempotent operations, least-privilege IAM, documented threat models
-- 🇵🇱 Based in Poland · English / Polish / Russian
+- 🇵🇱 Based in Poland
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tim_Bazylewicz-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-bazylewicz/)
 
 ---
 
