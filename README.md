@@ -4,6 +4,10 @@ around me.
 
 Some of it:
 
+- [**serwis-platform**](https://github.com/faceitall123qwe-hub/serwis-platform): runs serwis
+  on Kubernetes with GitOps. Argo CD, replicated Postgres via CloudNativePG, only CI-signed
+  images allowed (cosign + Kyverno), SLO burn-rate alerts. CI builds a fresh cluster and
+  tests the whole thing on every push.
 - [**serwis**](https://github.com/faceitall123qwe-hub/serwis): website and repair-ticket
   system for a mobile PC repair business. Next.js, Postgres, Drizzle.
   [Demo](https://serwis-pi.vercel.app)
