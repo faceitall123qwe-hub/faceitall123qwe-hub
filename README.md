@@ -16,6 +16,9 @@ Some of it:
 - [**telegram-bybit-copier**](https://github.com/faceitall123qwe-hub/telegram-bybit-copier): copies trade
   signals from Telegram to Bybit. Async Python, risk-based sizing, runs offline against a
   mock exchange.
+- [**sitepitch**](https://github.com/faceitall123qwe-hub/sitepitch): finds local businesses
+  with no website on OpenStreetMap, builds a demo site for each and writes the sales script.
+  518 leads in Warsaw from one run. Zero-dependency Python.
 - [**taroluna**](https://github.com/faceitall123qwe-hub/taroluna): tarot app for iOS and
   Android. Expo, Supabase, RevenueCat.
 - [**telegram-notion-capture**](https://github.com/faceitall123qwe-hub/telegram-notion-capture): Telegram
