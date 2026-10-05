@@ -16,6 +16,10 @@ Some of it:
 - [**telegram-bybit-copier**](https://github.com/faceitall123qwe-hub/telegram-bybit-copier): copies trade
   signals from Telegram to Bybit. Async Python, risk-based sizing, runs offline against a
   mock exchange.
+- [**ksef-watch**](https://github.com/faceitall123qwe-hub/ksef-watch): Poland's e-invoicing
+  system (KSeF) never tells you when someone invoices you. This polls it and sends the invoice,
+  amount, due date and bank account to Telegram, with payment reminders. Self-hosted, Docker,
+  tested end to end against the Ministry of Finance test API.
 - [**sitepitch**](https://github.com/faceitall123qwe-hub/sitepitch): finds local businesses
   with no website on OpenStreetMap, builds a demo site for each and writes the sales script.
   518 leads in Warsaw from one run. Zero-dependency Python.
