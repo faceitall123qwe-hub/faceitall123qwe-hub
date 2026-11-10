@@ -1,5 +1,6 @@
 Hi, I'm Tim, from Warsaw. I finished a technical school (technik teleinformatyk), work nights doing IT
-and chat support. Most of what's below I built in my free time because I wanted it to exist.
+and chat support, and I'm now studying at WWSI. Most of what's below I built in my free time
+because I wanted it to exist.
 
 **Games.** [clutchzone](https://github.com/faceitall123qwe-hub/clutchzone) is a 4v4 cartoon
 shooter that runs in the browser, with its own game server and bots ([play](https://clutchzone.pro)).
